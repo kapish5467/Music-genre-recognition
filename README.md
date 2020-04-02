@@ -1,7 +1,7 @@
 # Music-genre-recognition
 Packages
 
-    Python 3.6.5
+    Python 3.7
     Tensorflow - 1.7.0
     Keras - 2.2.4
     Numpy, Pandas, Matplotlib
